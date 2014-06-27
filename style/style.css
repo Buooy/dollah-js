@@ -1,0 +1,14 @@
+body *{
+	font-family: 'Open Sans', sans-serif;
+	line-height: 160% !important;
+}
+h1,h2,h3,h4,h5,h6{
+	line-height: 120% !important;
+	font-family: Lato, sans-serif !important;
+}
+#main{
+	padding-top: 80px;
+}
+.currency-picker{
+	width: 100%;
+}
